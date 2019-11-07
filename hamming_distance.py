@@ -9,4 +9,6 @@ def hamming_distance(string1, string2):
         if string1[i] != string2[i]:
             distance += 1
     # Return the final count of differences
-    return distance
+    return distance, sting1, string2
+
+
