@@ -10,3 +10,4 @@ def hamming_distance(string1, string2):
             distance += 1
     # Return the final count of differences
     return distance
+print("Doris") 
